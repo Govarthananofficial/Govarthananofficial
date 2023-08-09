@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Govarthanan</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🌱 I’m currently learning **Javascript Framework react.js**
+- 🌱 I’m currently learning **react.js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Govarthananofficial](https://github.com/Govarthananofficial)
 
 - 📫 How to reach me **dotcreatives6222@gmail.com**
 
-- 📄 Know about my skills [https://github.com/Govarthananofficial](https://github.com/Govarthananofficial)
+- 📄 Know about my skills [https://github.com/Govarthananofficial](https://govarthanan.netlify.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

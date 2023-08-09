@@ -3,11 +3,11 @@
 
 - 🌱 I’m currently learning **react.js**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Govarthananofficial](https://github.com/Govarthananofficial)
+- 👨‍💻 All of my projects are available at [Govarthananofficial](https://github.com/Govarthananofficial)
 
 - 📫 How to reach me **dotcreatives6222@gmail.com**
 
-- 📄 Know about my skills [https://github.com/Govarthananofficial](https://govarthanan.netlify.app/)
+- 📄 Know about my skills [Portfolio](https://govarthanan.netlify.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

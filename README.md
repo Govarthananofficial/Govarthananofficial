@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **react.js**
 
-- 👨‍💻 All of my projects are available at [Govarthananofficial](https://github.com/Govarthananofficial)
+- 👨‍💻 All of my projects are available at [Govarthananofficial](https://github.com/Govarthananofficial?tab=repositories)
 
 - 📫 How to reach me **dotcreatives6222@gmail.com**
 

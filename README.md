@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **dotcreatives6222@gmail.com**
 
-- 📄 Know about my skills [Portfolio](https://govarthanan.netlify.app/)
+- 📄 Know about my skills and Experience [Portfolio](https://govarthanan.netlify.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

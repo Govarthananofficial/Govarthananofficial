@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Govarthanan</h1>
 <h3 align="center">A UI/UX Designer with UI Development Skills (Figma, Flutter, React, Angular)</h3>
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Flutter & Angular**
 
 - 👨‍💻 All of my projects are available at [Govarthananofficial](https://github.com/Govarthananofficial?tab=repositories)
 

@@ -1,127 +1,104 @@
-<h1 align="center">Hi 👋, I'm Govarthanan</h1>
-<h3 align="center">UI/UX Designer • Front-End Developer • Building Real-World Scalable Products</h3>
+<h1 align="center">Govarthanan S</h1>
+<h3 align="center">UI/UX Designer • Front-End Developer • Product Builder</h3>
 
 <p align="center">
-Designing experiences that don't just look good — but work in production.
+I design and build real-world digital products — not just screens.
 </p>
 
 ---
 
-### 🚀 About Me
+## 🚀 About Me
 
-- 💼 UI/UX Designer with **2+ years of real client experience**
-- 🧠 Strong in **User-Centered Design (UCD), UX Research & Design Systems**
-- 🛠️ I design **and develop** complete products (UI → Code)
-- ⚡ Worked on high-traffic platforms (**1–2 Cr/day transactions**)
-- 🎯 Founder of a creative tech studio  
-
----
-
-### 🧑‍💻 What I Do
-
-- 🎨 UI/UX Design  
-- 💻 Front-End Development  
-- ⚙️ Interactive UI & Animations  
-- 📱 Responsive Design  
-- 🧩 Design Systems  
-- 📢 Branding  
+- 💼 UI/UX Designer with **2+ years of hands-on experience**
+- 🧠 Strong in **User-Centered Design, UX Research & Design Systems**
+- 🛠️ I handle **end-to-end product development (Design → Code)**
+- ⚡ Worked on applications handling **₹1–2 Cr daily transactions**
+- 🎯 Founder of **Salkom Design Studio**
 
 ---
 
-### 🌱 Currently Exploring
+## 🧑‍💻 What I Actually Do
 
-- Flutter Advanced UI & Animations  
-- Angular Performance Optimization  
-- 3D for Web (Blender + GSAP)  
-- Motion Design  
-
----
-
-### 🔗 Portfolio & Work
-
-- 👨‍💻 Projects: https://github.com/Govarthananofficial  
-- 🌐 Portfolio: https://govarthanan.netlify.app/  
+- 🎨 Design clean, scalable UI systems (Figma)
+- 💻 Convert designs into **production-ready code**
+- ⚙️ Build interactive UI using **GSAP, AOS**
+- 📱 Develop responsive web & mobile interfaces
+- 🧩 Create reusable **design systems & components**
+- 📢 Support branding & digital marketing execution
 
 ---
 
-### 📫 Contact Me
+## 🛠️ Tech Stack
+
+### 🎨 Design
+Figma • Adobe XD • Photoshop • Illustrator  
+
+### 💻 Front-End
+HTML • CSS • JavaScript • Bootstrap  
+Angular • Flutter • React (Basic)
+
+### ⚡ Animation & Interaction
+GSAP • AOS • jQuery  
+
+### 🧠 UX Skills
+UX Research • Wireframing • Prototyping  
+Design Systems • Information Architecture • Usability Testing  
+
+### 🎬 Creative Tools
+After Effects (Learning) • Premiere Pro • Blender (3D Web)
+
+### 📊 Marketing & Tools
+Meta Ads Manager • Meta Business Suite  
+ChatGPT • Copilot • Claude  
+
+---
+
+## 📈 Real Work Experience
+
+- Designed and developed UI for **real client projects**
+- Worked with brands like:
+  - Pothys  
+  - GRT  
+  - Lalitha  
+  - Swarna Mahal  
+  - AVR  
+
+- Built scalable UI systems used in **high-traffic environments**
+
+---
+
+## 🌐 Portfolio
+
+- 🔗 Portfolio: https://govarthanan.netlify.app  
+- 💻 GitHub Projects: https://github.com/Govarthananofficial  
+
+---
+
+## 📫 Contact
 
 - Email: dotcreatives6222@gmail.com  
 
 ---
 
-### 🌐 Connect with Me
+## 🌍 Connect
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/sgovarthanan/" target="_blank">
-    <i class="ri-linkedin-box-fill"></i> LinkedIn
-  </a> •
-  <a href="https://instagram.com/code_sprinters" target="_blank">
-    <i class="ri-instagram-line"></i> Instagram
-  </a> •
-  <a href="https://www.behance.net/dotcreatives1" target="_blank">
-    <i class="ri-behance-fill"></i> Behance
-  </a>
-</p>
+- LinkedIn: https://www.linkedin.com/in/sgovarthanan/  
+- Instagram: https://instagram.com/code_sprinters  
+- Behance: https://www.behance.net/dotcreatives1  
 
 ---
 
-### 🧰 Tech Stack
+## 🧠 Current Focus
 
-#### 🎨 Design
-<p>
-  <i class="ri-pen-nib-fill"></i> Figma &nbsp;
-  <i class="ri-image-edit-fill"></i> Photoshop &nbsp;
-  <i class="ri-brush-fill"></i> Illustrator &nbsp;
-  <i class="ri-layout-4-fill"></i> Adobe XD
-</p>
-
-#### 💻 Front-End
-<p>
-  <i class="ri-html5-fill"></i> HTML5 &nbsp;
-  <i class="ri-css3-fill"></i> CSS3 &nbsp;
-  <i class="ri-javascript-fill"></i> JavaScript &nbsp;
-  <i class="ri-bootstrap-fill"></i> Bootstrap &nbsp;
-  <i class="ri-angularjs-fill"></i> Angular &nbsp;
-  <i class="ri-flutter-fill"></i> Flutter &nbsp;
-  <i class="ri-reactjs-fill"></i> React
-</p>
-
-#### ⚡ Interaction & Animation
-<p>
-  <i class="ri-magic-fill"></i> GSAP &nbsp;
-  <i class="ri-slideshow-fill"></i> AOS &nbsp;
-  <i class="ri-code-box-fill"></i> jQuery
-</p>
-
-#### 🧠 UX & Systems
-<p>
-  <i class="ri-user-search-fill"></i> UX Research &nbsp;
-  <i class="ri-pencil-ruler-2-fill"></i> Wireframing &nbsp;
-  <i class="ri-apps-fill"></i> Design Systems &nbsp;
-  <i class="ri-flow-chart"></i> Information Architecture
-</p>
-
-#### 🎬 Creative & Media
-<p>
-  <i class="ri-video-fill"></i> After Effects &nbsp;
-  <i class="ri-movie-fill"></i> Premiere Pro &nbsp;
-  <i class="ri-cube-fill"></i> Blender
-</p>
-
-#### 📊 Marketing & Tools
-<p>
-  <i class="ri-megaphone-fill"></i> Meta Ads &nbsp;
-  <i class="ri-bar-chart-fill"></i> Analytics &nbsp;
-  <i class="ri-robot-fill"></i> AI Tools
-</p>
+- Advanced Flutter UI & performance
+- Angular optimization & scalable architecture
+- Motion design & 3D web experiences
 
 ---
 
-### 🏆 Highlight
+## ⚡ Positioning Statement
 
-- Built real-world scalable UI systems  
-- Worked on high-traffic applications  
-- Delivered end-to-end design → development  
+I’m not just a designer or developer.  
+I bridge the gap between design and engineering to build usable, scalable products.
 
 ---

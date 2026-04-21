@@ -1,104 +1,110 @@
-<h1 align="center">Govarthanan S</h1>
-<h3 align="center">UI/UX Designer • Front-End Developer • Product Builder</h3>
+<h1 align="center">Hi 👋, I'm Govarthanan</h1>
+<h3 align="center">UI/UX Designer • Front-End Developer • Building Real-World Scalable Products</h3>
 
 <p align="center">
-I design and build real-world digital products — not just screens.
+Designing experiences that don't just look good — but work in production.
 </p>
 
 ---
 
-## 🚀 About Me
+### 🚀 About Me
 
-- 💼 UI/UX Designer with **2+ years of hands-on experience**
-- 🧠 Strong in **User-Centered Design, UX Research & Design Systems**
-- 🛠️ I handle **end-to-end product development (Design → Code)**
-- ⚡ Worked on applications handling **₹1–2 Cr daily transactions**
-- 🎯 Founder of **Salkom Design Studio**
-
----
-
-## 🧑‍💻 What I Actually Do
-
-- 🎨 Design clean, scalable UI systems (Figma)
-- 💻 Convert designs into **production-ready code**
-- ⚙️ Build interactive UI using **GSAP, AOS**
-- 📱 Develop responsive web & mobile interfaces
-- 🧩 Create reusable **design systems & components**
-- 📢 Support branding & digital marketing execution
+- 💼 UI/UX Designer with **2+ years of real client experience**
+- 🧠 Strong in **User-Centered Design (UCD), UX Research & Design Systems**
+- 🛠️ I design **and develop** complete products (UI → Code)
+- ⚡ Worked on high-traffic platforms (handling **1–2 Cr/day transactions**)
+- 🎯 Founder of a creative tech studio
 
 ---
 
-## 🛠️ Tech Stack
+### 🧑‍💻 What I Do
 
-### 🎨 Design
-Figma • Adobe XD • Photoshop • Illustrator  
-
-### 💻 Front-End
-HTML • CSS • JavaScript • Bootstrap  
-Angular • Flutter • React (Basic)
-
-### ⚡ Animation & Interaction
-GSAP • AOS • jQuery  
-
-### 🧠 UX Skills
-UX Research • Wireframing • Prototyping  
-Design Systems • Information Architecture • Usability Testing  
-
-### 🎬 Creative Tools
-After Effects (Learning) • Premiere Pro • Blender (3D Web)
-
-### 📊 Marketing & Tools
-Meta Ads Manager • Meta Business Suite  
-ChatGPT • Copilot • Claude  
+- 🎨 UI/UX Design (Figma, XD)
+- 💻 Front-End Development (Angular, Flutter, HTML, CSS, JS)
+- ⚙️ Interactive UI (GSAP, AOS, jQuery)
+- 📱 Responsive & Mobile-First Design
+- 🧩 Design Systems & Component Architecture
+- 📢 Branding & Digital Assets
 
 ---
 
-## 📈 Real Work Experience
+### 🌱 Currently Exploring
 
-- Designed and developed UI for **real client projects**
-- Worked with brands like:
-  - Pothys  
-  - GRT  
-  - Lalitha  
-  - Swarna Mahal  
-  - AVR  
-
-- Built scalable UI systems used in **high-traffic environments**
+- Flutter Advanced UI & Animations  
+- Angular (Latest Versions + Performance Optimization)  
+- 3D for Web (Blender + GSAP)  
+- Motion Design (After Effects)  
 
 ---
 
-## 🌐 Portfolio
+### 🔗 Portfolio & Work
 
-- 🔗 Portfolio: https://govarthanan.netlify.app  
-- 💻 GitHub Projects: https://github.com/Govarthananofficial  
+- 👨‍💻 Projects: https://github.com/Govarthananofficial  
+- 🌐 Portfolio: https://govarthanan.netlify.app/  
 
 ---
 
-## 📫 Contact
+### 📫 Contact Me
 
 - Email: dotcreatives6222@gmail.com  
 
 ---
 
-## 🌍 Connect
+### 🌐 Connect with Me
 
-- LinkedIn: https://www.linkedin.com/in/sgovarthanan/  
-- Instagram: https://instagram.com/code_sprinters  
-- Behance: https://www.behance.net/dotcreatives1  
-
----
-
-## 🧠 Current Focus
-
-- Advanced Flutter UI & performance
-- Angular optimization & scalable architecture
-- Motion design & 3D web experiences
+<p align="left">
+  <a href="https://www.linkedin.com/in/sgovarthanan/" target="blank">LinkedIn</a> •
+  <a href="https://instagram.com/code_sprinters" target="blank">Instagram</a> •
+  <a href="https://www.behance.net/dotcreatives1" target="blank">Behance</a>
+</p>
 
 ---
 
-## ⚡ Positioning Statement
+### 🧰 Tech Stack
 
-I’m not just a designer or developer.  
-I bridge the gap between design and engineering to build usable, scalable products.
+#### 🎨 Design
+- Figma  
+- Adobe XD  
+- Adobe Photoshop  
+- Adobe Illustrator  
+
+#### 💻 Front-End
+- HTML5  
+- CSS3  
+- JavaScript (ES6+)  
+- Bootstrap  
+- Angular  
+- Flutter  
+- React (Basic)
+
+#### ⚡ Interaction & Animation
+- GSAP  
+- AOS  
+- jQuery  
+
+#### 🧠 UX & Systems
+- UX Research  
+- Wireframing & Prototyping  
+- Design Systems  
+- Information Architecture  
+- Usability Testing  
+
+#### 🎬 Creative & Media
+- After Effects (Learning)  
+- Premiere Pro (Learning)  
+- Blender (3D for Web)  
+
+#### 📊 Marketing & Tools
+- Meta Ads Manager  
+- Meta Business Suite  
+- AI Tools (ChatGPT, Copilot, Claude)
+
+---
+
+### 🏆 Highlight
+
+- Designed and contributed to products for major brands  
+- Built end-to-end UI → Development workflows  
+- Experience in real-time, high-scale applications  
 
 ---

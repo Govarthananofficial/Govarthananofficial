@@ -1,36 +1,127 @@
 <h1 align="center">Hi 👋, I'm Govarthanan</h1>
-<h3 align="center">A UI/UX Designer with UI Development Skills (Flutter, Angular)</h3>
+<h3 align="center">UI/UX Designer • Front-End Developer • Building Real-World Scalable Products</h3>
 
-- 🌱 I’m currently learning **Flutter & Angular**
-
-- 👨‍💻 All of my projects are available at [Govarthananofficial](https://github.com/Govarthananofficial?tab=repositories)
-
-- 📫 How to reach me **dotcreatives6222@gmail.com**
-
-- 📄 Know about my skills and Experience [Portfolio](https://govarthanan.netlify.app/)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/sgovarthanan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="govarthanan s" height="30" width="40" /></a>
-  <a href="https://instagram.com/code_sprinters" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="code_sprinters" height="30" width="40" /></a>
-  <a href="https://www.behance.net/dotcreatives1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="dotcreatives1" height="30" width="40" /></a>
+<p align="center">
+Designing experiences that don't just look good — but work in production.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+---
+
+### 🚀 About Me
+
+- 💼 UI/UX Designer with **2+ years of real client experience**
+- 🧠 Strong in **User-Centered Design (UCD), UX Research & Design Systems**
+- 🛠️ I design **and develop** complete products (UI → Code)
+- ⚡ Worked on high-traffic platforms (**1–2 Cr/day transactions**)
+- 🎯 Founder of a creative tech studio  
+
+---
+
+### 🧑‍💻 What I Do
+
+- 🎨 UI/UX Design  
+- 💻 Front-End Development  
+- ⚙️ Interactive UI & Animations  
+- 📱 Responsive Design  
+- 🧩 Design Systems  
+- 📢 Branding  
+
+---
+
+### 🌱 Currently Exploring
+
+- Flutter Advanced UI & Animations  
+- Angular Performance Optimization  
+- 3D for Web (Blender + GSAP)  
+- Motion Design  
+
+---
+
+### 🔗 Portfolio & Work
+
+- 👨‍💻 Projects: https://github.com/Govarthananofficial  
+- 🌐 Portfolio: https://govarthanan.netlify.app/  
+
+---
+
+### 📫 Contact Me
+
+- Email: dotcreatives6222@gmail.com  
+
+---
+
+### 🌐 Connect with Me
+
 <p align="left">
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" alt="photoshop" width="40" height="40"/> </a>
-  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a>
-  <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Adobe_XD_CC_icon.svg" alt="xd" width="40" height="40"/> </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
-  <a href="https://flutter.dev/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-  <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="angular" width="40" height="40"/> </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="bootstrap" width="40" height="40"/> </a>
-  <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
-  <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+  <a href="https://www.linkedin.com/in/sgovarthanan/" target="_blank">
+    <i class="ri-linkedin-box-fill"></i> LinkedIn
+  </a> •
+  <a href="https://instagram.com/code_sprinters" target="_blank">
+    <i class="ri-instagram-line"></i> Instagram
+  </a> •
+  <a href="https://www.behance.net/dotcreatives1" target="_blank">
+    <i class="ri-behance-fill"></i> Behance
+  </a>
 </p>
 
+---
+
+### 🧰 Tech Stack
+
+#### 🎨 Design
+<p>
+  <i class="ri-pen-nib-fill"></i> Figma &nbsp;
+  <i class="ri-image-edit-fill"></i> Photoshop &nbsp;
+  <i class="ri-brush-fill"></i> Illustrator &nbsp;
+  <i class="ri-layout-4-fill"></i> Adobe XD
+</p>
+
+#### 💻 Front-End
+<p>
+  <i class="ri-html5-fill"></i> HTML5 &nbsp;
+  <i class="ri-css3-fill"></i> CSS3 &nbsp;
+  <i class="ri-javascript-fill"></i> JavaScript &nbsp;
+  <i class="ri-bootstrap-fill"></i> Bootstrap &nbsp;
+  <i class="ri-angularjs-fill"></i> Angular &nbsp;
+  <i class="ri-flutter-fill"></i> Flutter &nbsp;
+  <i class="ri-reactjs-fill"></i> React
+</p>
+
+#### ⚡ Interaction & Animation
+<p>
+  <i class="ri-magic-fill"></i> GSAP &nbsp;
+  <i class="ri-slideshow-fill"></i> AOS &nbsp;
+  <i class="ri-code-box-fill"></i> jQuery
+</p>
+
+#### 🧠 UX & Systems
+<p>
+  <i class="ri-user-search-fill"></i> UX Research &nbsp;
+  <i class="ri-pencil-ruler-2-fill"></i> Wireframing &nbsp;
+  <i class="ri-apps-fill"></i> Design Systems &nbsp;
+  <i class="ri-flow-chart"></i> Information Architecture
+</p>
+
+#### 🎬 Creative & Media
+<p>
+  <i class="ri-video-fill"></i> After Effects &nbsp;
+  <i class="ri-movie-fill"></i> Premiere Pro &nbsp;
+  <i class="ri-cube-fill"></i> Blender
+</p>
+
+#### 📊 Marketing & Tools
+<p>
+  <i class="ri-megaphone-fill"></i> Meta Ads &nbsp;
+  <i class="ri-bar-chart-fill"></i> Analytics &nbsp;
+  <i class="ri-robot-fill"></i> AI Tools
+</p>
+
+---
+
+### 🏆 Highlight
+
+- Built real-world scalable UI systems  
+- Worked on high-traffic applications  
+- Delivered end-to-end design → development  
+
+---
